@@ -1,0 +1,1 @@
+FROM amzoncorretto:11
